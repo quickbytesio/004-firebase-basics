@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "name": "Aaron",
+            "username": "aaronb",
+            "website": "https://www.quickbytes.io"
+        },
+        {
+            "name": "Beth",
+            "username": "bethr",
+            "website": "https://www.quickbytes.io"
+        },
+        {
+            "name": "Charlie",
+            "username": "charliet",
+            "website": "https://www.quickbytes.io"
+        }
+    ]
+}
